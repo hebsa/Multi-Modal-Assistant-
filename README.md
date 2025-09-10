@@ -1,4 +1,4 @@
-# Multi-Modal-Assistant-
+# Multi-Modal-Assistant
 Build an assistant capable of answering queries based on both text and images
 ---
 title: Multi-Modal Assistant (LLaVA via Ollama) --- Project
